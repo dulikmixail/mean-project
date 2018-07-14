@@ -1,0 +1,25 @@
+{
+  "name": "mean-project",
+  "version": "1.0.0",
+  "description": "Mongodb, Express, Angular 5, Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dulikmixail/mean-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dulikmixail/mean-project/issues"
+  },
+  "homepage": "https://github.com/dulikmixail/mean-project#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongojs": "^2.6.0"
+  }
+}
