@@ -21,7 +21,7 @@ app.use(indexRoutes);
 app.use('/api',tasksRoutes);
 
 // //static files
-// app.use(express.static(path.join(__dirname,'dist')));
+app.use(express.static(path.join(__dirname,'dist')));
 
 
 //start server
